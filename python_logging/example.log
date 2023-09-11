@@ -1,0 +1,10 @@
+DEBUG:root:I am debugging.
+INFO:root:This is a info.
+WARNING:root:This is a warning.
+ERROR:root:This is an error.
+CRITICAL:root:Find critical!
+DEBUG:root:I am debugging.
+INFO:root:This is a info.
+WARNING:root:This is a warning.
+ERROR:root:This is an error.
+CRITICAL:root:Find critical!
